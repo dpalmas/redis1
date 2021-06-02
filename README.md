@@ -2,7 +2,7 @@
   Redis I: Armazenando chaves e valores
 </h1>
 
-<p align="center">Exercícios do curso de Redis I do Alura.</a>
+<p align="center">Exercícios do curso de Redis I.</a>
 </p>
 
 <p align="center">
