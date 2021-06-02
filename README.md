@@ -47,13 +47,13 @@ A importância de definir um padrão no nomes das nossas chaves é a facilitaç�
 ### Padrão
 **5° Qual das alternativas a seguir não é boa para uma escolha de padrão de chaves. :pencil:**
 
-[ ] id_do_usuario:categoria_em_portugues
+- [ ] id_do_usuario:categoria_em_portugues
 
-[ ] id_do_usuario:categoria_em_ingles
+- [ ] id_do_usuario:categoria_em_ingles
 
-[ ] data_em_formato_dd_mm_yyyy
+- [ ] data_em_formato_dd_mm_yyyy
 
-[ ] categoria_em_portugues:id_do_usuario
+- [ ] categoria_em_portugues:id_do_usuario
 
 :white_check_mark: categoria_em_qualquer_lingua:id_do_usuario
 
