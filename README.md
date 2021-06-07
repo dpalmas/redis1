@@ -7,12 +7,12 @@
 
 <p align="center">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dpalmas/sd?color=0000FF">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dpalmas/redis1?color=0000FF">
 
-  <img alt="License" src="https://img.shields.io/github/license/dpalmas/sd?color=0000FF&logo=MIT">
+  <img alt="License" src="https://img.shields.io/github/license/dpalmas/redis1?color=0000FF&logo=MIT">
   
-  <a href="https://github.com/dpalmas/sd/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dpalmas/sd?color=0000FF">
+  <a href="https://github.com/dpalmas/redis1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dpalmas/redis1?color=0000FF">
   </a>
 </p>
 
